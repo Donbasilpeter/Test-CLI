@@ -4,7 +4,7 @@
  * 
  * Just a test cli
  *
- * @author Don Basil Peter <dsf>
+ * @author Don Basil Peter <https://donbasilpeter.vercel.app>
  */
 
 const init = require('./utils/init');
